@@ -20,10 +20,10 @@ I built the FastAPI REST API over PostgreSQL, including a joined SQLAlchemy quer
 
 ## Skills
 
-**Languages:** Python, Java, C, JavaScript, SQL, HTML, CSS, R, C#
-**Frameworks & Libraries:** FastAPI, Flask, SQLAlchemy, Pydantic, Pytest, React, Vite
-**Databases:** PostgreSQL, MySQL, SQLite, Supabase
-**Tools:** Render, Vercel, Cloudflare, GitLab CI, GitHub Actions, Docker, Git
+- **Languages:** Python, Java, C, JavaScript, SQL, HTML, CSS, R, C#
+- **Frameworks & Libraries:** FastAPI, Flask, SQLAlchemy, Pydantic, Pytest, React, Vite
+- **Databases:** PostgreSQL, MySQL, SQLite, Supabase
+- **Tools:** Render, Vercel, Cloudflare, GitLab CI, GitHub Actions, Docker, Git
 
 ## Connect
 
