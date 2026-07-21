@@ -31,4 +31,5 @@ A full-stack personal finance tracker that parses bank statement CSVs with Panda
 - RateMyTWU: [ratemytwu.com](https://ratemytwu.com)
 - LinkedIn: [linkedin.com/in/jendrick-rian-galut-374310307](https://www.linkedin.com/in/jendrick-rian-galut-374310307/)
 - Instagram: [@jrc_galut](https://www.instagram.com/jrc_galut)
-- Resume: [View Resume](RESUME_LINK_HERE)
+- Resume: [View Resume]([Jendrick_Galut_Resume_Final_2026 (2).pdf](https://github.com/user-attachments/files/30243265/Jendrick_Galut_Resume_Final_2026.2.pdf)
+)
