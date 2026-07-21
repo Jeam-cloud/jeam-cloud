@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Jendrick Rian Galut
 
-<!--
-**Jeam-cloud/jeam-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computing Science student @ Trinity Western University
+Co-Founder of [RateMyTWU](https://ratemytwu.com) — building tools for students, one project at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Computing Science student at Trinity Western University, minoring in Business, with a focus on full-stack development and backend engineering.
+
+I co-founded **RateMyTWU**, a professor and course rating platform used by 50+ students at my school. I also build independent projects like **RoyalView**, a personal finance tracker, to sharpen my backend and data-handling skills.
+
+## What I'm Building
+
+### RateMyTWU
+A professor review and degree-planning platform for Trinity Western students. Built with React, FastAPI, PostgreSQL, and Supabase — includes a FastAPI REST API, JWT authentication, and a drag-and-drop degree planner.
+
+### RoyalView
+A full-stack personal finance tracker that parses bank statement CSVs with Pandas and persists transactions through a SQLAlchemy-backed SQLite database, with CSRF-protected uploads and dynamic filtering.
+
+## Skills
+
+**Languages:** Python, Java, C, JavaScript, SQL, HTML, CSS, R, C#
+**Frameworks & Libraries:** FastAPI, Flask, SQLAlchemy, Pydantic, Pytest, React, Vite
+**Databases:** PostgreSQL, MySQL, SQLite, Supabase
+**Tools:** Render, Vercel, Cloudflare, GitLab CI, GitHub Actions, Docker, Git
+
+## Connect
+
+- RateMyTWU: [ratemytwu.com](https://ratemytwu.com)
+- LinkedIn: [linkedin.com/in/jendrick-rian-galut-374310307](https://www.linkedin.com/in/jendrick-rian-galut-374310307/)
+- Instagram: [@jrc_galut](https://www.instagram.com/jrc_galut)
+- Resume: [View Resume](RESUME_LINK_HERE)
