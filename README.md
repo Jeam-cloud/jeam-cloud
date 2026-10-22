@@ -30,6 +30,6 @@ I built the FastAPI REST API over PostgreSQL, including a joined SQLAlchemy quer
 - RateMyTWU: [ratemytwu.com](https://ratemytwu.com)
 - LinkedIn: [linkedin.com/in/jendrick-rian-galut-374310307](https://www.linkedin.com/in/jendrick-rian-galut-374310307/)
 - Instagram: [@jrc_galut](https://www.instagram.com/jrc_galut)
-- Resume: [View Resume]([Jendrick_Resume_Final_2026 (4).pdf]([Jendrick_Master_Resume_2026.pdf](https://github.com/user-attachments/files/33843829/Jendrick_Master_Resume_2026.pdf)
+- Resume: [View Resume](https://github.com/user-attachments/files/33843829/Jendrick_Master_Resume_2026.pdf)
 )
 )
